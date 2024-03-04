@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f192f586-fd78-4f8d-8750-704467a58ebc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 48,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "mo_med_stone": {
+      "ver": "1.0.4",
+      "uuid": "753fe813-a447-4d64-82a8-37a5ac0fe899",
+      "rawTextureUuid": "f192f586-fd78-4f8d-8750-704467a58ebc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 38,
+      "rawWidth": 48,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
